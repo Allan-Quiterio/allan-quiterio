@@ -4,6 +4,7 @@
 - 📫 How to reach me: Linkedin - www.linkedin.com/in/allan-quitério/
 - ⚡ Interesting fact: Google offers native antivirus on Android devices 😮
 
+#### 📈 My GitHub Stats & Languages
 <div>
   <a href="https://github.com/Allan-Quiterio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allan-quiterio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
