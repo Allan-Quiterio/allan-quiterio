@@ -1,6 +1,6 @@
 ## Hello, I'm Allan, how are you? 👋
 
-- 🌱 I’m currently learning - JavaScript, TypeScript, React ...
+- 🌱 I’m currently learning - HTML, CSS, JavaScript, TypeScript, React ...
 - 📫 How to reach me: Linkedin - www.linkedin.com/in/allan-quitério/
 - ⚡ Interesting fact: Google offers native antivirus on Android devices 😮
 
